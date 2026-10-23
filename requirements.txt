@@ -1,0 +1,12 @@
+torch
+pandas
+numpy
+scikit-learn
+huggingface_hub
+datasets
+fastapi
+uvicorn
+pyttsx3
+opencv-python
+mediapipe==0.10.21
+protobuf==4.25.3
